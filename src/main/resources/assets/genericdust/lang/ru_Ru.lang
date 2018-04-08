@@ -1,0 +1,22 @@
+itemGroup.genericdust=Generic Dust
+
+#Categories
+genericdust.category.dust=Пыль
+genericdust.category.crushed=Раздробленная
+genericdust.category.nugget=Самородок
+genericdust.category.purified=Очищенная
+genericdust.category.pile=Кучка
+
+#Materials
+genericdust.resource.coal=Угольная
+genericdust.resource.iron=Железная
+genericdust.resource.gold=Золотая
+genericdust.resource.lapis=Лазуритовая
+genericdust.resource.diamond=Алмазная
+genericdust.resource.emerald=Изумрудная
+genericdust.resource.quartz=Кварцевая
+genericdust.resource.copper=Медная
+genericdust.resource.tin=Оловяная
+genericdust.resource.lead=Свинцовая
+genericdust.resource.silver=Серебряная
+genericdust.resource.uranium=Урановая
